@@ -4,4 +4,4 @@ I am a programmer who likes to code and develop interesting and exciting softwar
 My work on web and mobile app development enables me to express my creativity and design legible UI. 
 I have experience working with Java, Python, React, JavaScript, HTML, and Android Studio.
 
-www.prannat.one
+More about me and where I work: www.prannat.one
